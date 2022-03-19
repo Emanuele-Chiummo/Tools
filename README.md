@@ -18,7 +18,7 @@ Cliccare sul link e seguire tutti i passaggi
 
 #
 
-#### Passaggio a Windows 11 Pro e attivazione
+#### Passaggio a Windows 11 Pro e attivazione :sunglasses:
 
 cliccare sul link e seguire tutti i passaggi
 
