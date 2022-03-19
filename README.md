@@ -1,6 +1,8 @@
 # Tools
 
 
+#### WinRAR chiave di licenza a vita
+
 #### Attivazione Microsoft Office 365
 
 Aprire il file office 365 activation.md e seguire tutti i passaggi 
