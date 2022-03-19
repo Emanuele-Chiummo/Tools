@@ -27,7 +27,7 @@
 
 #
 
-7. Aggiorna l'applicazione e goditi tutte le note del tuo Smartphone Samsung sul pc perfettamente sincronizzate
+7. Aggiorna l'applicazione e goditi tutte le note del tuo Smartphone Samsung sul pc perfettamente sincronizzate :smile:
 
 #
 
