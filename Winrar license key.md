@@ -1,7 +1,10 @@
-Step 1: Create a New Text Document file Name rarreg.key
+Step 1: Crea un nuovo documento di testo
 
-Step 2: Paste into the file the raw content of this gist
+Step 2: Incolla nel file il seguente codice
 
+Step 3: Salva con nome il file seleziona salva come tutti i file e rinominalo rarreg.key
+
+```batch
 RAR registration data
 WinRAR
 Unlimited Company License
@@ -14,9 +17,11 @@ b41bcf56929486b8bcdac33d50ecf773996052598f1f556defffbd
 6e6fb824bcf25f155547b5fc41901ad58c0992f570be1cf5608ba9
 aef69d48c864bcd72d15163897773d314187f6a9af350808719796
 ----------------------------------------------------------------------------------------------------------
-Step 3: Go to WinRAR install directory by default =>
+```
+Step 4: Vai alla directory di installazione di WinRAR normanlmente è =>
 
 c:\ProgramFiles\WinRAR\ 
-Step 4: Paste the rarreg.key into WinRAR directory
 
-Step 5: Enjoy
+Step 5: Incolla il file rarreg.key nella directory WinRAR
+
+Step 6: Goditi WinRar con la licenza a vita!
