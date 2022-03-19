@@ -2,6 +2,10 @@
 
 ### Tools & Trick per i nostri PC WINDOWS ! :smile:
 
+Spero vi sia d'aiuto!
+
+#
+
 #### WinRAR chiave di licenza a vita :sunglasses:
 
 Cliccare sul link e seguire tutti i passaggi 
