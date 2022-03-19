@@ -1,3 +1,7 @@
+# WinRAR Licenza a vita
+
+### Passaggi
+
 Step 1: Crea un nuovo documento di testo
 
 Step 2: Incolla nel file il seguente codice
