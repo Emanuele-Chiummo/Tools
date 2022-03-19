@@ -1,40 +1,43 @@
-An guide how to activate Windows 11 Pro for free
-## Why?
-Because you will get some more features like an Bitlocker and host your device as an External Desktop which can be accessed through the internet
-## Am i also able to switch from any other edition to Pro?
-The answer is yes! You can switch from almost any edition to Pro completely for free!
-## Note for users with unactivated Pro edition
-People which already have Pro, but not activated, can skip to [this step](https://gist.github.com/Minionguyjpro/d913b3931e844ad8ad9a758a4aca4b63#activating-windows-pro).
-## Getting started
-What you first need to do is open CMD (Command Prompt) as Administrator using this keyboard key:
+# Una guida su come attivare Windows 11 Pro gratuitamente
+## Perchè Windows 11 Pro?
+Perché otterrai alcune funzionalità in più come Bitlocker e potrai controllare il tuo pc anche da remoto con Connessione Remota di Windows
+## Posso anche passare da qualsiasi altra edizione a Pro?
+La risposta è si! Puoi passare da quasi tutte le edizioni a Pro completamente gratuitamente!
+## Nota per gli utenti con l'edizione Pro non attivata
+Le persone che hanno già Pro, ma non sono attivate, possono saltare i primi step e andare direttamente all'attivazione 
+
+## Iniziamo
+La prima cosa che devi fare è aprire CMD (Prompt dei comandi) come amministratore usando questo tasto della tastiera:
 
 <kbd><img src="https://svgshare.com/i/dg_.svg" width="11"></kbd> + <kbd>R</kbd>
 
-And now type in ``cmd.exe`` in the box
+E ora digita ``cmd.exe`` nella casella
 
-Now press this keys on your keyboard:
+Ora premi questi tasti sulla tastiera:
 
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd>
 
 
-### The commands
-Now, type the following command:
+### Comandi
+1. Ora, digita il seguente comando:
 ``slmgr.vbs /upk``
-Now it will give an message, click on ``OK``
+Ora visualizzerà un messaggio, fai clic su ``OK``
 
-And now this command:
+2. ed ora questo comando
 ``slmgr.vbs /cpky``
-It will give an message once again, and click on ``OK`` again
+Ora visualizzerà un messaggio, fai clic su ``OK``
 
-And now type this command:
+3. Ed anche questo comando
 ``slmgr.vbs /ckms``
-Once again click on ``OK`` when you get an message
-### Edition upgradable check command
-Now we are gonna check of your edition is supported to upgrade to Pro, run the following command to check this:
+Ancora una volta clicca su ``OK`` quando ricevi un messaggio
+
+### Comando di verifica aggiornamento dell'edizione
+Ora ontrolleremo che la tua edizione sia supportata per l'aggiornamento a Pro, esegui il seguente comando per verificarlo:
 ``DISM /online /Get-TargetEditions``
-If you see ``Professional`` in the list, then you can upgrade your Windows edition to Pro for free!
+Se vedi ``Professional`` nell'elenco, puoi aggiornare la tua edizione di Windows a Pro gratuitamente!
+
 ### Running Windows Pro installer
-Now, copy and paste this complete command:
+Ora copia e incolla i seguenti comandi:
 
 ``sc config LicenseManager start= auto & net start LicenseManager``
 
@@ -44,30 +47,26 @@ Now, copy and paste this complete command:
 
 ``exit``
 
-It will run an installer and you will see an message: ``% complete``
+Verrà eseguito un programma di installazione e vedrai un messaggio: ``% complete``
 
-Now wait until it's 100% and then you get an error (This is normal, this needs to happen.)
+Ora attendi fino a quando non è al 100% e poi ricevi un errore (questo è normale, deve succedere.)
 
-When you get the error, just click Exit and then reboot your pc.
+Quando ricevi l'errore, fai semplicemente clic su Esci e quindi riavvia il PC.
 
-You will now see an message that he is running updates and is installing features, just wait until its done and check ``info`` in settings, You will see that Windows 11 Pro is installed! 
+## Attivazione Windows Pro
+Ora eseguiremo altri comandi per attivare Windows 11 Pro
 
-But we are not done, You will see that it isn't activated and that you can't change some settings, now we are gonna fix that!
-## Activating Windows Pro
-Now we are gonna run some other commands to activate Windows 11 Pro
-
-Press these keyboard keys once again:
-
+Premi ancora una volta questi tasti della tastiera:
 <kbd><img src="https://svgshare.com/i/dg_.svg" width="11"></kbd> + <kbd>R</kbd>
 
 
-Press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd>
+Premi <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd>
 
-You will get an message, just click on ``Yes``
+Riceverai un messagio, clicca su ``SI``
 
-Now you will get an Command Prompt.
+Orati si aprira il prompt dei comandi come amministratore.
 
-Type the following commands one for one to activate:
+Digita uno per uno i seguenti comandi per l'attivazione:
 
 ``slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX``
 
@@ -76,4 +75,4 @@ Type the following commands one for one to activate:
 ``slmgr /ato``
  
 # Last Words
-I hope you enjoy it!
+Buon Proseguimento :smile:
