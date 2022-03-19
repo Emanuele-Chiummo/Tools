@@ -12,23 +12,10 @@ What you first need to do is open CMD (Command Prompt) as Administrator using th
 
 And now type in ``cmd.exe`` in the box
 
-It should now look as something like this:
-
-![image](https://user-images.githubusercontent.com/66115754/134801377-b9769c34-8a9d-4d4f-ba8e-6c073f1ce4a2.png)
-
 Now press this keys on your keyboard:
 
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd>
 
-Now you have something like this:
-
-![UAC Permissions](https://user-images.githubusercontent.com/66115754/134801445-9b90e121-350b-42ea-afec-b499f1fbfae9.png)
-
-Now, click on ``Yes``
-
-Now you have something like this:
-
-![Windows Command Prompt](https://user-images.githubusercontent.com/66115754/134807479-53ccdaf9-feb0-49a3-9843-5bb4db016128.png)
 
 ### The commands
 Now, type the following command:
@@ -73,9 +60,6 @@ Press these keyboard keys once again:
 
 <kbd><img src="https://svgshare.com/i/dg_.svg" width="11"></kbd> + <kbd>R</kbd>
 
-It looks like this again:
-
-![Run Dialog With cmd.exe Text In It](https://user-images.githubusercontent.com/66115754/134801377-b9769c34-8a9d-4d4f-ba8e-6c073f1ce4a2.png)
 
 Press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd>
 
@@ -91,12 +75,5 @@ Type the following commands one for one to activate:
 
 ``slmgr /ato``
  
-**Note**: This does not always work. When running ``slmgr /ato`` it does not always work, but keep trying.
-Now you have Windows 11 Pro and it activated! You can check settings to see it.
-# Video Tutorial
-There is also an video tutorial to make it easy to follow. Click on the image below to see the video tutorial on YouTube.
-
-[![Video Tutorial](https://img.youtube.com/vi/Q132Tr40z_8/0.jpg)](https://www.youtube.com/watch?v=Q132Tr40z_8)
-
 # Last Words
 I hope you enjoy it!
