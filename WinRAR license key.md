@@ -4,9 +4,15 @@
 
 Step 1: Crea un nuovo documento di testo
 
+#
+
 Step 2: Incolla nel file il seguente codice
 
+#
+
 Step 3: Salva con nome il file seleziona salva come tutti i file e rinominalo rarreg.key
+
+#
 
 ```python 
 RAR registration data
@@ -23,10 +29,15 @@ aef69d48c864bcd72d15163897773d314187f6a9af350808719796
 ----------------------------------------------------------------------------------------------------------
 ```
 
+#
 Step 4: Vai alla directory di installazione di WinRAR normanlmente è =>
 
 c:\ProgramFiles\WinRAR\ 
 
+#
+
 Step 5: Incolla il file rarreg.key nella directory WinRAR
+
+#
 
 Step 6: Goditi WinRAR con la licenza a vita! :smile:
