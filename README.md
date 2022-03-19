@@ -30,9 +30,9 @@ cliccare sul link e seguire tutti i passaggi
 
 #
 
-#### Samsung Notes su qualsiasi PC Windows
+#### Samsung Notes su qualsiasi PC Windows :sunglasses:
 
-[Clicca qui!]()
+[Clicca qui!](https://github.com/Emanuele-Chiummo/Tools/blob/08af9e06d72c74ec50287c380456c393e1b385fa/Samsung%20Notes%20any%20PC.md)
 
 
 
