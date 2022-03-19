@@ -18,7 +18,7 @@
     for /f %x in ('dir /b ..\root\Licenses16\proplusvl_kms*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%x"
     ```
 
-6. Usa KMS clinet key per attivare il tuo Office
+6. Usa KMS client key per attivare il tuo Office
 
     ```batch
     cscript ospp.vbs /inpkey:XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99
