@@ -33,7 +33,9 @@ Ancora una volta clicca su ``OK`` quando ricevi un messaggio
 
 ### Comando di verifica aggiornamento dell'edizione
 Ora ontrolleremo che la tua edizione sia supportata per l'aggiornamento a Pro, esegui il seguente comando per verificarlo:
+
 ``DISM /online /Get-TargetEditions``
+
 Se vedi ``Professional`` nell'elenco, puoi aggiornare la tua edizione di Windows a Pro gratuitamente!
 
 ### Running Windows Pro installer
