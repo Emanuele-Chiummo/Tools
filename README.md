@@ -24,13 +24,15 @@ Cliccare sul link e seguire tutti i passaggi
 
 #### Passaggio a Windows 10 / 11 Pro e attivazione :sunglasses:
 
-cliccare sul link e seguire tutti i passaggi
+Cliccare sul link e seguire tutti i passaggi
 
 [Clicca qui!](https://github.com/Emanuele-Chiummo/Tools/blob/be6bfdda71ab71260f9dc222f87eec0bb06e51ed/Windows%20%2011%20Pro%20activation.md)
 
 #
 
 #### Samsung Notes su qualsiasi PC Windows :sunglasses:
+
+Cliccare sul link e seguire tutti i passaggi
 
 [Clicca qui!](https://github.com/Emanuele-Chiummo/Tools/blob/08af9e06d72c74ec50287c380456c393e1b385fa/Samsung%20Notes%20any%20PC.md)
 
