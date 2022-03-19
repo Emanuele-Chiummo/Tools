@@ -1,8 +1,6 @@
 
 # Samsung Notes per tutti i pc Windows
 
-#
-
 1. Scarica il file rar cliccando su [Download](https://www.mediafire.com/file/oqnjix647254b5i/SamsungNotesMicrosoftStore.zip/file)
 
 #
