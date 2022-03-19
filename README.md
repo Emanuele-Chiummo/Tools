@@ -30,5 +30,9 @@ cliccare sul link e seguire tutti i passaggi
 
 #
 
+#### Samsung Notes su qualsiasi PC Windows
+
+[Clicca qui!]()
+
 
 
