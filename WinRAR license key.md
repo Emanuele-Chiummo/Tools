@@ -1,6 +1,6 @@
 # WinRAR Licenza a vita
 
-### Passaggi
+## Passaggi
 
 Step 1: Crea un nuovo documento di testo
 
