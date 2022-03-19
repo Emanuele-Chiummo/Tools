@@ -1,6 +1,6 @@
 # Microsoft Office 365 Attivazione
 
-## Steps
+## Passaggi
 
 1. Scarica e Installa Office 365
 2. Rimuovi la licenza di prova corrente
