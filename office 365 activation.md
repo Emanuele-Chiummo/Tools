@@ -95,3 +95,4 @@ C:\Windows\system32>cd /d %ProgramFiles%\Microsoft Office\Office16
  ---Exiting-----------------------------
  C:\Program Files\Microsoft Office\Office16>
  ```
+ **Goditi l'attivazione di Office 365 :smile:
