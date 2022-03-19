@@ -1,13 +1,13 @@
 # Tools
 
 
-#### WinRAR chiave di licenza a vita
+#### WinRAR chiave di licenza a vita :sunglasses:
 
 Cliccare sul link e seguire tutti i passaggi 
 
 [Clicca qui!](https://github.com/Emanuele-Chiummo/Tools/blob/eea8f65e0c8f1700393e8e97489eaa6c57c361cb/WinRar%20license%20key.md)
 
-#### Attivazione Microsoft Office 365
+#### Attivazione Microsoft Office 365 :sunglasses:
 
 Cliccare sul link e seguire tutti i passaggi 
 
