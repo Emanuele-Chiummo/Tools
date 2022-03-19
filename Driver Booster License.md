@@ -16,11 +16,8 @@
 
 #
 
-5. Inserire il seguente Serial Number
+5. Inserire il seguente Serial Number ``7C22A-C0D9D-0D0D2-FFA49``
 
-#
-
-``7C22A-C0D9D-0D0D2-FFA49``
 
 #
 
