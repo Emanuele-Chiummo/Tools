@@ -1,5 +1,5 @@
-# Una guida su come attivare Windows 11 Pro gratuitamente
-## Perchè Windows 11 Pro?
+# Una guida su come attivare Windows 10/11 Pro gratuitamente
+## Perchè Windows 10/11 Pro?
 Perché otterrai alcune funzionalità in più come Bitlocker e potrai controllare il tuo pc anche da remoto con Connessione Remota di Windows
 ## Posso anche passare da qualsiasi altra edizione a Pro?
 La risposta è si! Puoi passare da quasi tutte le edizioni a Pro completamente gratuitamente!
@@ -56,7 +56,7 @@ Ora attendi fino a quando non è al 100% e poi ricevi un errore (questo è norma
 Quando ricevi l'errore, fai semplicemente clic su Esci e quindi riavvia il PC.
 
 ## Attivazione Windows Pro
-Ora eseguiremo altri comandi per attivare Windows 11 Pro
+Ora eseguiremo altri comandi per attivare Windows 10/11 Pro
 
 Premi ancora una volta questi tasti della tastiera:
 <kbd><img src="https://svgshare.com/i/dg_.svg" width="11"></kbd> + <kbd>R</kbd>
@@ -78,6 +78,6 @@ Digita uno per uno i seguenti comandi per l'attivazione:
  
 # 
 
-Buon Proseguimento :smile:
+Goditi il tuo Windows 10/11 pro attivato :smile:
 
 #
