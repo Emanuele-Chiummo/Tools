@@ -23,7 +23,9 @@
 ``----- Codice Licenza di Driver Booster Pro -----
 
 Stato licenza: Regalo
+
 Codice licenza: 7C22A-C0D9D-0D0D2-FFA49
+
 Data di scadenza: 03/12/2022
 ``
 
