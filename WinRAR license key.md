@@ -41,3 +41,5 @@ Step 5: Incolla il file rarreg.key nella directory WinRAR
 #
 
 Step 6: Goditi WinRAR con la licenza a vita! :smile:
+
+#
