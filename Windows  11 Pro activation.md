@@ -77,4 +77,7 @@ Digita uno per uno i seguenti comandi per l'attivazione:
 ``slmgr /ato``
  
 # 
+
 Buon Proseguimento :smile:
+
+#
