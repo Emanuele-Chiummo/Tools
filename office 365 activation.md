@@ -32,7 +32,7 @@
 
 ## Risultato
 
-Here is all the text you will get in the command prompt window.
+Ecco tutto il testo che otterrai nella finestra del prompt dei comandi.
 
 ```cmd
 C:\Windows\system32>cd /d %ProgramFiles%\Microsoft Office\Office16
