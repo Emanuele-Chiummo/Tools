@@ -21,6 +21,6 @@
 
 #
 
-Goditi Driver Booster 9 fino al 3 Dicembre 2019 :smile:
+6. Goditi Driver Booster 9 fino al 3 Dicembre 2019 :smile:
 
 #
