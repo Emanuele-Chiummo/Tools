@@ -1,6 +1,6 @@
 # Samsung Quick Share per tutti i pc Windows
 
-1. Scarica il file rar cliccando su [Download]()
+1. Scarica il file rar cliccando su [Download](https://www.mediafire.com/file/a6zyxuainxwnvx1/Samsung_Quick_Share_.rar/file)
 
 #
 
