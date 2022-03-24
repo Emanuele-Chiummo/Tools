@@ -38,6 +38,12 @@ Cliccare sul link e seguire tutti i passaggi
 
 #
 
+#### Samsung Quick Share su Qualsiasi PC :sunglasses:
+
+Cliccare sul link e seguire tutti i passaggi 
+
+[Clicca qui!](https://github.com/Emanuele-Chiummo/Tools/blob/62b3e6c611752519c781f325ea7425c957c28a98/QuickShare.md)
+
 #### Driver Booster 9 Licenza :sunglasses:
 
 Cliccare sul link e seguire tutti i passaggi
@@ -46,10 +52,6 @@ Cliccare sul link e seguire tutti i passaggi
 
 #
 
-#### Samsung Quick Share su Qualsiasi PC :sunglasses:
 
-Cliccare sul link e seguire tutti i passaggi 
-
-[Clicca qui!](https://github.com/Emanuele-Chiummo/Tools/blob/62b3e6c611752519c781f325ea7425c957c28a98/QuickShare.md)
 
 
