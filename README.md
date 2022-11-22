@@ -54,6 +54,14 @@ Cliccare sul link e seguire tutti i passaggi
 
 #
 
+#### Angoli Attivi su Windows 10/11:
+
+Cliccare sul link e seguire tutti i passaggi
+
+[Clicca qui!](https://github.com/Emanuele-Chiummo/Tools/blob/main/Angoli%20Attivi%20Windows.md)
+
+#
+
 
 
 
