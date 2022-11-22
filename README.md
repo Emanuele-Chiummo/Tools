@@ -62,6 +62,14 @@ Cliccare sul link e seguire tutti i passaggi
 
 #
 
+#### Anteprima File su Windows 10/11 :sunglasses:
+
+Cliccare sul link e seguire tutti i passaggi
+
+[Clicca qui!](https://github.com/Emanuele-Chiummo/Tools/blob/3dd7dc9597ad2a5492811f2212a6d86e0c006b69/Angoli%20Attivi%20Windows.md)
+
+#
+
 
 
 
