@@ -54,7 +54,7 @@ Cliccare sul link e seguire tutti i passaggi
 
 #
 
-#### Angoli Attivi su Windows 10/11:
+#### Angoli Attivi su Windows 10/11 :sunglasses:
 
 Cliccare sul link e seguire tutti i passaggi
 
