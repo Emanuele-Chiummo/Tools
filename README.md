@@ -58,7 +58,7 @@ Cliccare sul link e seguire tutti i passaggi
 
 Cliccare sul link e seguire tutti i passaggi
 
-[Clicca qui!](https://github.com/Emanuele-Chiummo/Tools/blob/main/Angoli%20Attivi%20Windows.md)
+[Clicca qui!](https://github.com/Emanuele-Chiummo/Tools/blob/bd8083d3fdd0216d04ada6e0419d91f278159a3b/Angoli%20Attivi%20Windows)
 
 #
 
