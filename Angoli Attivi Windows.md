@@ -1,6 +1,6 @@
 # Angoli Attivi su Windows 10/11 come su MacOS
 
-1. Scarica il file rar cliccando su [Download](https://github.com/vhanla/winxcorners/releases/tag/1.2b)
+1. Scarica il file cliccando su [Download](https://github.com/vhanla/winxcorners/releases/tag/1.2b)
 
 #
 
